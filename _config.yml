@@ -1,8 +1,8 @@
+title: Juan Castagnini - Food Science
+description: Bookmark this to keep an eye on my project updates!
+# Google Analytics
+google_analytics: G-WL6JEQPSQE
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 #theme: jekyll-theme-minimal
-title: [Juan Castagnini - Food Science]
-description: [Bookmark this to keep an eye on my project updates!]
-# Google Analytics
-google_analytics: [G-WL6JEQPSQE]
