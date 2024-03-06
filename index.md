@@ -1,7 +1,6 @@
 ---
 layout: default
 ---
-# Juan Manuel Castagnini
 
 _Food engineer based in Valencia_ <br>
 
