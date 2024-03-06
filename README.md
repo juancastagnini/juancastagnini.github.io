@@ -33,10 +33,10 @@ Facultad de Ciencias de la Alimentación.
 **Food Engineer** <br>
 [Universidad Nacional de Entre Ríos](https://uner.edu.ar/) - Concordia, Argentina _(11/06/2010)_
 
-## 💬 Languages
+## Languages
 🇪🇸 **Spanish**: Native <br>
-🇺🇸 **English**: C1
- **Valencian/Catalan**: C1 
-🇮🇹 **Italian**: B2
-🇵🇹 **Portuguese**: B1
+🇺🇸 **English**: C1 <br>
+ **Valencian/Catalan**: C1 <br>
+🇮🇹 **Italian**: B2 <br>
+🇵🇹 **Portuguese**: B1 <br>
 <br><br>
