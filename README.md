@@ -6,8 +6,8 @@ _Food engineer based in Valencia_ <br>
 
 ## Current Position
 
-**Distinguished researcher “Maria Zambrano”** @ [Unniversitat de València, Spain](https://www.uv.es/) _(14/01/2022 - Present)_ <br>
-Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department.
+**Distinguished researcher “Maria Zambrano”** @ [Universitat de València, Spain](https://www.uv.es/) _(14/01/2022 - Present)_ <br>
+Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
 *Keywords:* Sustainable functional food development; Microencapsulation; Pulsed electric fields; Innovative Non-thermal technologies
   - Extraction of bioactive compounds from food matrices using innovative and sustainable non-thermal technologies (EXTRABIO)
   - **_Technologies used:_** Pulsed Electric Fields (PEF), Supercritical Fluid Extractionn (SC-CO_2), Pressurized Liquid Extraction (PLE).
@@ -16,12 +16,12 @@ Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Med
 ## Previous Positions
 
 **Hired Researcher** @ [Università di Bologna, Italy](https://www.unibo.it/en/homepage) _(01/11/2020 - 31/12/2021)_ <br>
-Dipartimento di Scienze e Tecnologie Agro-Alimentari (DISTAL)
+Dipartimento di Scienze e Tecnologie Agro-Alimentari (DISTAL) <br>
   - **_Technologies used:_** Pulsed Electric Fields (PEF), Cold Plasma, Spray-Drying, Differential Scanning Calorimetry (DSC), Texture, Color.
 <br><br>
 
 **Associate Professor** @ [Universidad Nacional de Entre Rios, Argentina](https://uner.edu.ar/) _(01/08/2014 - 31/10/2020)_ <br>
-Facultad de Ciencias de la Alimentación.
+Facultad de Ciencias de la Alimentación. <br>
   - **_Technologies used:_** Differential Scanning Calorimetry (DSC), Rheology, Spray-Drying.
     <br><br>
 
