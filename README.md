@@ -1,6 +1,3 @@
----
-layout: default
----
 
 _Food engineer based in Valencia_ <br>
 
