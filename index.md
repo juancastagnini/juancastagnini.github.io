@@ -33,9 +33,9 @@ Facultad de Ciencias de la Alimentación. <br>
 [Universidad Nacional de Entre Ríos](https://uner.edu.ar/) - Concordia, Argentina _(11/06/2010)_
 
 ## Languages
-🇪🇸 **Spanish**: Native <br>
-🇺🇸 **English**: C1 <br>
- **Valencian/Catalan**: C1 <br>
-🇮🇹 **Italian**: B2 <br>
-🇵🇹 **Portuguese**: B1 <br>
+**Spanish**: Native <br>
+**English**: C1 <br>
+**Valencian/Catalan**: C1 <br>
+**Italian**: B2 <br>
+**Portuguese**: B1 <br>
 <br><br>
