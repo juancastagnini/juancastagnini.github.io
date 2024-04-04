@@ -6,12 +6,12 @@ filename: publications.md
 
 # Scientific articles
 ## 2024
-- Calleja-Gómez, M., Pallarés, N., Salgado-Ramos, M., Barba, F. J., Berrada, H., & Castagnini, J. M. (2024). Sustainable processing of food side streams and underutilized leftovers into high-added-value chemicals assisted by pulsed electric fields- and high-pressure processing-based technologies. TrAC Trends in Analytical Chemistry, 171, 117506. https://doi.org/10.1016/j.trac.2023.117506
+- Calleja-Gómez, M., Pallarés, N., Salgado-Ramos, M., Barba, F. J., Berrada, H., & Castagnini, J. M. (2024). Sustainable processing of food side streams and underutilized leftovers into high-added-value chemicals assisted by pulsed electric fields- and high-pressure processing-based technologies. TrAC Trends in Analytical Chemistry, 171, 117506. [https://doi.org/10.1016/j.trac.2023.117506](https://doi.org/10.1016/j.trac.2023.117506)
 
-- Chailangka, A., Autsavapromporn, N., Karnjanapratum, S., Leksawasdi, N., Castagnini, J. M., Barba, F. J., Mousavi Khaneghah, A., & Phimolsiripol, Y. (2024). Kinetic stability, gastrointestinal fate, and cytotoxicity of vitamin D3 emulsion incorporated with cricket protein-fructooligosaccharide conjugate. Food Hydrocolloids, 146, 109288. https://doi.org/10.1016/j.foodhyd.2023.109288
+- Chailangka, A., Autsavapromporn, N., Karnjanapratum, S., Leksawasdi, N., Castagnini, J. M., Barba, F. J., Mousavi Khaneghah, A., & Phimolsiripol, Y. (2024). Kinetic stability, gastrointestinal fate, and cytotoxicity of vitamin D3 emulsion incorporated with cricket protein-fructooligosaccharide conjugate. Food Hydrocolloids, 146, 109288. [https://doi.org/10.1016/j.foodhyd.2023.109288](https://doi.org/10.1016/j.foodhyd.2023.109288)
 
 ## 2023
-- Abouelenein, D., Mustafa, A. M., Nzekoue, F. K., Caprioli, G., Angeloni, S., Tappi, S., Castagnini, J. M., Dalla Rosa, M., & Vittori, S. (2023). The Impact of Plasma Activated Water Treatment on the Phenolic Profile, Vitamins Content, Antioxidant and Enzymatic Activities of Rocket-Salad Leaves. Antioxidants, 12(1), 28. https://doi.org/10.3390/antiox12010028
+- Abouelenein, D., Mustafa, A. M., Nzekoue, F. K., Caprioli, G., Angeloni, S., Tappi, S., Castagnini, J. M., Dalla Rosa, M., & Vittori, S. (2023). The Impact of Plasma Activated Water Treatment on the Phenolic Profile, Vitamins Content, Antioxidant and Enzymatic Activities of Rocket-Salad Leaves. Antioxidants, 12(1), 28. [https://doi.org/10.3390/antiox12010028](https://doi.org/10.3390/antiox12010028)
 
 - Bernabeu, M., Gharibzahedi, S. M. T., Ganaie, A. A., Macha, M. A., Dar, B. N., Castagnini, J. M., Garcia-Bonillo, C., Meléndez-Martínez, A. J., Altintas, Z., & Barba, F. J. (2023). The potential modulation of gut microbiota and oxidative stress by dietary carotenoid pigments. Critical Reviews in Food Science and Nutrition, 1-19. https://doi.org/10.1080/10408398.2023.2254383
 
