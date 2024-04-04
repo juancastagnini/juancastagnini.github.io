@@ -2,7 +2,6 @@
 title: Juan Manuel Castagnini
 layout: template
 filename: index.md
-permalink: /index/
 --- 
 
 _Food engineer based in Valencia_ <br>
