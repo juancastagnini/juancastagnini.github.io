@@ -1,5 +1,5 @@
 ---
-title: Cv
+title: Juan Manuel Castagnini
 layout: template
 filename: index.md
 permalink: /index/
