@@ -1,8 +1,8 @@
 ---
-layout: page
 title: Publications
-permalink: /publications/
----
+layout: template
+filename: publications.md
+--- 
 
 Scientific articles
 
