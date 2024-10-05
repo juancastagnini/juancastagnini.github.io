@@ -2,5 +2,12 @@ title: Juan Castagnini
 description: Food Science and Technology
 remote_theme: pages-themes/cayman@v0.2.0
 plugins:
-- jekyll-remote-theme # add this line to the plugins list if you already have one
-#theme: jekyll-theme-minimal
+  - jekyll-remote-theme
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+social:
+  twitter: https://x.com/jmcastagnini
+  linkedin: https://www.linkedin.com/in/juanmanuelcastagnini/
+
+lang: en
