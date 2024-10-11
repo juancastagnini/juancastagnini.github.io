@@ -13,3 +13,5 @@ A podcast on the research article entitled: Vacuum impregnation and air drying t
 A podcast on the research article entitled: Analysis by non-linear irreversible thermodynamics of compositional and structural changes occurred during air drying of vacuum impregnated apple (cv. *Granny smith*): Calcium and trehalose effects. DOI: 10.1016/j.jfoodeng.2014.09.028
 [SPOTIFY](https://open.spotify.com/episode/2RF8cPDfveNcVeXO1VzMxP?si=uC2EvYsgTPWPVGTr9LIPSQ)
 <a href="https://open.spotify.com/episode/2RF8cPDfveNcVeXO1VzMxP?si=uC2EvYsgTPWPVGTr9LIPSQ" target="_blank">SPOTIFY</a>
+
+<h2><a href="https://open.spotify.com/episode/2RF8cPDfveNcVeXO1VzMxP?si=uC2EvYsgTPWPVGTr9LIPSQ" target="_blank">Episode 2: Innovation in the Food Industry: Trehalose for Improved Quality</a></h2>
