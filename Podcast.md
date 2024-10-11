@@ -4,7 +4,7 @@ layout: template
 filename: publications.md
 --- 
 
-<h1><a href="https://podcasters.spotify.com/pod/show/juancastagnini" target="_blank">Juan Castagnini - Food Science and Technology Podcast</a></h1>
+<h1><a href="https://podcasters.spotify.com/pod/show/juancastagnini" target="_blank">Food Science and Technology Podcast</a></h1>
 
 <h2><a href="https://open.spotify.com/episode/7lrNusKF0b3PKPIVci39Bf?si=IclEXVNOTtWKd7ss_4jEQA" target="_blank">Episode 1: Enhancing Antioxidant Power: Blueberry-vaccum impregnated Apple Snacks</a></h2>
 A podcast on the research article entitled: Vacuum impregnation and air drying temperature effect on individual anthocyanins and antiradical capacity of blueberry juice included into an apple matrix. DOI: 10.1016/j.lwt.2015.06.044
