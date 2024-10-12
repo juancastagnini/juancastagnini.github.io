@@ -1,7 +1,7 @@
 ---
-title: Podcast
+title: Sexenio1
 layout: template
-filename: Podcast.md
+filename: Sexinio1.md
 --- 
 
 <h1><a href="https://podcasters.spotify.com/pod/show/juancastagnini" target="_blank">Food Science and Technology Podcast</a></h1>
