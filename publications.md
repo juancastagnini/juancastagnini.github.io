@@ -54,7 +54,7 @@ filename: publications.md
 
 - Castagnini, J. M., Tappi, S., Tylewicz, U., Laghi, L., & Rocculi, P. (2022). Study of Water Distribution, Textural and Colour Properties of Cold Formulated and Air-Dried Apple Snacks. Foods, 11(5), 731. [https://doi.org/10.3390/foods11050731](https://doi.org/10.3390/foods11050731)
 
-- Iaccheri, E., Castagnini, J. M., Tylewicz, U., & Rocculi, P. (2022). Modelling the mechanical properties and sorption behaviour of pulsed electric fields (PEF) treated carrots and potatoes after air drying for food chain management. Biosystems Engineering, 223, 53-60. [https://doi.org/10.1016/j.biosystemseng.2021.09.011](https://doi.org/10.1016/j.biosystemseng.2021.09.011)
+- Iaccheri, E., Castagnini, J. M., Tylewicz, U., & Rocculi, P. (2022). Modelling the mechanical properties and sorption behaviour of pulsed electric fields (PEF) treated carrots and potatoes after air drying for food chain management. Biosystems Engineering, 223, 53-60. [https://doi.org/10.1016/j.biosystemseng.2021.09.011](https://doi.org/10.1016/j.biosystemseng.2021.09.011) - [Accepted Manuscript - Open Acccess](https://cris.unibo.it/retrieve/d4815b75-6dec-4b1a-bd6b-959e2d680948/YBENG-D-21-00387_Versione%20accettata.pdf)
 
 - Li, S., Xu, H., Sui, Y., Mei, X., Shi, J., Cai, S., Xiong, T., Carrillo, C., Castagnini, J. M., Zhu, Z., & Barba, F. J. (2022). Comparing the LC-MS Phenolic Acids Profiles of Seven Different Varieties of Brown Rice (Oryza sativa L.). Foods, 11(11), 1552. [https://doi.org/10.3390/foods11111552](https://doi.org/10.3390/foods11111552)
 
@@ -69,7 +69,7 @@ filename: publications.md
 ## 2021
 - Castagnini, J. M., Tappi, S., Tylewicz, U., Romani, S., Rocculi, P., & Dalla Rosa, M. (2021). Sustainable Development of Apple Snack Formulated with Blueberry Juice and Trehalose. Sustainability, 13(16), 9204. [https://doi.org/10.3390/su13169204](https://doi.org/10.3390/su13169204)
 
-- Iaccheri, E., Castagnini, J. M., Dalla Rosa, M., & Rocculi, P. (2021). New insights into the glass transition of dried fruits and vegetables and the effect of pulsed electric field treatment. Innovative Food Science & Emerging Technologies, 67, 102566. [https://doi.org/10.1016/j.ifset.2020.102566](https://doi.org/10.1016/j.ifset.2020.102566)
+- Iaccheri, E., Castagnini, J. M., Dalla Rosa, M., & Rocculi, P. (2021). New insights into the glass transition of dried fruits and vegetables and the effect of pulsed electric field treatment. Innovative Food Science & Emerging Technologies, 67, 102566. [https://doi.org/10.1016/j.ifset.2020.102566](https://doi.org/10.1016/j.ifset.2020.102566) - [Accepted Manuscript - Open Access](https://cris.unibo.it/retrieve/d2382fef-6cc8-4567-9e49-18272bf8c135/IFSET-D-20-00696_Accepted%20manuscript.pdf)
 
 - Mannozzi, C., Glicerina, V., Tylewicz, U., Castagnini, J. M., Canali, G., Dalla Rosa, M., & Romani, S. (2021). Influence of Two Different Coating Application Methods on the Maintenance of the Nutritional Quality of Fresh-Cut Melon during Storage. Applied Sciences, 11(18), 8510. [https://doi.org/10.3390/app11188510](https://doi.org/10.3390/app11188510)
 
@@ -95,6 +95,6 @@ filename: publications.md
 - Zapata, L. M., Castagnini, J. M., Quinteros, C. F., Carlier, E., Jimenez-Veuthey, M., & Cabrera, C. (2016). Estabilidad de antocianinas durante el almacenamiento de jugo de arandanos. Revista Vitae, 23(3), 173-183. [https://doi.org/10.17533/udea.vitae.v23n3a03](https://doi.org/10.17533/udea.vitae.v23n3a03)
 
 ## 2015
-- Betoret, E., Betoret, N., Castagnini, J. M., Rocculi, P., Dalla Rosa, M., & Fito, P. (2015). Analysis by non-linear irreversible thermodynamics of compositional and structural changes occurred during air drying of vacuum impregnated apple (cv. Granny smith): Calcium and trehalose effects. Journal of Food Engineering, 147, 95-101. [https://doi.org/10.1016/j.jfoodeng.2014.09.028](https://doi.org/10.1016/j.jfoodeng.2014.09.028)
+- Betoret, E., Betoret, N., Castagnini, J. M., Rocculi, P., Dalla Rosa, M., & Fito, P. (2015). Analysis by non-linear irreversible thermodynamics of compositional and structural changes occurred during air drying of vacuum impregnated apple (cv. Granny smith): Calcium and trehalose effects. Journal of Food Engineering, 147, 95-101. [https://doi.org/10.1016/j.jfoodeng.2014.09.028](https://doi.org/10.1016/j.jfoodeng.2014.09.028) - [Accepted Manuscript - Open Access](https://riunet.upv.es/bitstream/handle/10251/67998/Non%20lineal%20irreversible%20thermodynamics.pdf?sequence=2&isAllowed=y)
 
 - Castagnini, J. M., Betoret, N., Betoret, E., & Fito, P. (2015). Vacuum impregnation and air drying temperature effect on individual anthocyanins and antiradical capacity of blueberry juice included into an apple matrix. LWT - Food Science and Technology, 64(2), 1289-1296. [https://doi.org/10.1016/j.lwt.2015.06.044](https://doi.org/10.1016/j.lwt.2015.06.044)
