@@ -67,11 +67,11 @@ filename: publications.md
 - Tylewicz, U., Mannozzi, C., Castagnini, J. M., Genovese, J., Romani, S., Rocculi, P., & Rosa, M. D. (2022). Application of PEF- and OD-assisted drying for kiwifruit waste valorisation. Innovative Food Science & Emerging Technologies, 77, 102952. [https://doi.org/10.1016/j.ifset.2022.102952](https://doi.org/10.1016/j.ifset.2022.102952)
 
 ## 2021
-- Castagnini, J. M., Tappi, S., Tylewicz, U., Romani, S., Rocculi, P., & Dalla Rosa, M. (2021). Sustainable Development of Apple Snack Formulated with Blueberry Juice and Trehalose. Sustainability, 13(16), 9204. [https://doi.org/10.3390/su13169204](https://doi.org/10.3390/su13169204) **Gold Open Access**
+- Castagnini, J. M., Tappi, S., Tylewicz, U., Romani, S., Rocculi, P., & Dalla Rosa, M. (2021). Sustainable Development of Apple Snack Formulated with Blueberry Juice and Trehalose. Sustainability, 13(16), 9204. [https://doi.org/10.3390/su13169204](https://doi.org/10.3390/su13169204) <span style="color: #FFD700;">**Gold Open Access**</span>
 
 - Iaccheri, E., Castagnini, J. M., Dalla Rosa, M., & Rocculi, P. (2021). New insights into the glass transition of dried fruits and vegetables and the effect of pulsed electric field treatment. Innovative Food Science & Emerging Technologies, 67, 102566. [https://doi.org/10.1016/j.ifset.2020.102566](https://doi.org/10.1016/j.ifset.2020.102566) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](https://hdl.handle.net/11585/797856)
 
-- Mannozzi, C., Glicerina, V., Tylewicz, U., Castagnini, J. M., Canali, G., Dalla Rosa, M., & Romani, S. (2021). Influence of Two Different Coating Application Methods on the Maintenance of the Nutritional Quality of Fresh-Cut Melon during Storage. Applied Sciences, 11(18), 8510. [https://doi.org/10.3390/app11188510](https://doi.org/10.3390/app11188510) **Gold Open Access**
+- Mannozzi, C., Glicerina, V., Tylewicz, U., Castagnini, J. M., Canali, G., Dalla Rosa, M., & Romani, S. (2021). Influence of Two Different Coating Application Methods on the Maintenance of the Nutritional Quality of Fresh-Cut Melon during Storage. Applied Sciences, 11(18), 8510. [https://doi.org/10.3390/app11188510](https://doi.org/10.3390/app11188510) <span style="color: #FFD700;">**Gold Open Access**</span>
 
 ## 2020
 - Benitez, L. O., Castagnini, J. M., Añón, M. C., & Salgado, P. R. (2020). Development of oil-in-water emulsions based on rice bran oil and soybean meal as the basis of food products able to be included in ketogenic diets. LWT, 118, 108809. [https://doi.org/10.1016/j.lwt.2019.108809](https://doi.org/10.1016/j.lwt.2019.108809) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](https://hdl.handle.net/10550/101242)
@@ -79,20 +79,20 @@ filename: publications.md
 - Castagnini, J. M., Iaccheri, E., Tylewicz, U., Dalla Rosa, M., & Rocculi, P. (2020). Pulsed electric fields effect on mechanical and sorption properties of dried apple tissue. Innovative Food Science & Emerging Technologies, 65, 102442. [https://doi.org/10.1016/j.ifset.2020.102442](https://doi.org/10.1016/j.ifset.2020.102442) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](https://hdl.handle.net/10550/101243)
 
 ## 2019
-- Sandoval, V., Femenias, A., Martínez-Garza, Ú., Sanz-Lamora, H., Castagnini, J., Quifer-Rada, P., Lamuela-Raventós, R., Marrero, P., Haro, D., & Relat, J. (2019). Lyophilized Maqui (Aristotelia chilensis) Berry Induces Browning in the Subcutaneous White Adipose Tissue and Ameliorates the Insulin Resistance in High Fat Diet-Induced Obese Mice. Antioxidants, 8(9), 360. [https://doi.org/10.3390/antiox8090360](https://doi.org/10.3390/antiox8090360) **Gold Open Access**
+- Sandoval, V., Femenias, A., Martínez-Garza, Ú., Sanz-Lamora, H., Castagnini, J., Quifer-Rada, P., Lamuela-Raventós, R., Marrero, P., Haro, D., & Relat, J. (2019). Lyophilized Maqui (Aristotelia chilensis) Berry Induces Browning in the Subcutaneous White Adipose Tissue and Ameliorates the Insulin Resistance in High Fat Diet-Induced Obese Mice. Antioxidants, 8(9), 360. [https://doi.org/10.3390/antiox8090360](https://doi.org/10.3390/antiox8090360) <span style="color: #FFD700;">**Gold Open Access**</span>
 
 - Tylewicz, U., Mannozzi, C., Romani, S., Castagnini, J. M., Samborska, K., Rocculi, P., & Dalla Rosa, M. (2019). Chemical and physicochemical properties of semi-dried organic strawberries enriched with bilberry juice-based solution. LWT, 114, 108377. [https://doi.org/10.1016/j.lwt.2019.108377](https://doi.org/10.1016/j.lwt.2019.108377) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](https://hdl.handle.net/10550/101244)
 
-- Zapata, L. M., Castagnini, J. M., Quinteros, C. F., & Veuthey, M. J. (2019). Drying kinetics modeling of apple and zucchini slices vacuum impregnated with anthocyanins. Ciência Rural, 49(10), e20180839. [https://doi.org/10.1590/0103-8478cr20180839](https://doi.org/10.1590/0103-8478cr20180839) **Gold Open Access**
+- Zapata, L. M., Castagnini, J. M., Quinteros, C. F., & Veuthey, M. J. (2019). Drying kinetics modeling of apple and zucchini slices vacuum impregnated with anthocyanins. Ciência Rural, 49(10), e20180839. [https://doi.org/10.1590/0103-8478cr20180839](https://doi.org/10.1590/0103-8478cr20180839) <span style="color: #FFD700;">**Gold Open Access**</span>
 
 ## 2018
 - Zampedri, C. A., Zampedri, P. A., Scattolaro, O., Zapata, L. M., & Castagnini, J. M. (2018). Evaluación de la digestion in vitro de compuestos bioactivos de arándanos. Ciencia, Docencia y Tecnología, 29(Vol29No57), 285–295. [https://doi.org/10.33255/2957/320](https://doi.org/10.33255/2957/320) **Platinum Open Access**
 
 ## 2017
-- Castagnini, J. M., Zapata, L. M., Quinteros, C. F., Noceti, A., & Universidad Nacional de Entre Ríos, Argentina. (2017). Multiple response optimization of blueberry juice depectinization. Ciência Rural, 47(4). [https://doi.org/10.1590/0103-8478cr20160501](https://doi.org/10.1590/0103-8478cr20160501) [<span style="color: #FFD700;">**Gold Open Access**</span>]
+- Castagnini, J. M., Zapata, L. M., Quinteros, C. F., Noceti, A., & Universidad Nacional de Entre Ríos, Argentina. (2017). Multiple response optimization of blueberry juice depectinization. Ciência Rural, 47(4). [https://doi.org/10.1590/0103-8478cr20160501](https://doi.org/10.1590/0103-8478cr20160501) <span style="color: #FFD700;">**Gold Open Access**</span>
 
 ## 2016
-- Zapata, L. M., Castagnini, J. M., Quinteros, C. F., Carlier, E., Jimenez-Veuthey, M., & Cabrera, C. (2016). Estabilidad de antocianinas durante el almacenamiento de jugo de arandanos. Revista Vitae, 23(3), 173-183. [https://doi.org/10.17533/udea.vitae.v23n3a03](https://doi.org/10.17533/udea.vitae.v23n3a03) [<span style="color: #E5E4E2;">**Platinum Open Access**</span>]
+- Zapata, L. M., Castagnini, J. M., Quinteros, C. F., Carlier, E., Jimenez-Veuthey, M., & Cabrera, C. (2016). Estabilidad de antocianinas durante el almacenamiento de jugo de arandanos. Revista Vitae, 23(3), 173-183. [https://doi.org/10.17533/udea.vitae.v23n3a03](https://doi.org/10.17533/udea.vitae.v23n3a03) **Platinum Open Access**
 
 ## 2015
 - Betoret, E., Betoret, N., Castagnini, J. M., Rocculi, P., Dalla Rosa, M., & Fito, P. (2015). Analysis by non-linear irreversible thermodynamics of compositional and structural changes occurred during air drying of vacuum impregnated apple (cv. Granny smith): Calcium and trehalose effects. Journal of Food Engineering, 147, 95-101. [https://doi.org/10.1016/j.jfoodeng.2014.09.028](https://doi.org/10.1016/j.jfoodeng.2014.09.028) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](http://hdl.handle.net/10251/67998)
