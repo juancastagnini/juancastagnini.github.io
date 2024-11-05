@@ -1,7 +1,7 @@
 ---
 title: Research Lines
 layout: template
-filename: ResearchLine.md
+filename: ResearchLines.md
 ---
 
 ## 1. Innovative Processing Technologies:
