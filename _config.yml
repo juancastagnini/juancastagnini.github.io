@@ -1,6 +1,7 @@
 title: Juan Castagnini
 description: Food Science and Technology
 remote_theme: pages-themes/cayman@v0.2.0
+permalink: /:categories/:title/
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
