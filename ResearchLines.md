@@ -59,10 +59,16 @@ Currently, this research line seeks to refine the delivery and bioavailability o
 <div style="text-align: justify;">
 The Applications in Food Safety and Sustainability research line focuses on developing strategies to enhance food safety and promote sustainable practices in food production. Initially, this line of research concentrated on identifying contaminants—such as pesticide residues and heavy metals—in various food matrices and assessing the risks they pose to consumer health. These early studies highlighted the importance of monitoring and mitigating contaminants in the food supply chain, establishing a foundation for safer food practices.
 </div>
+
+<div style="text-align: justify;">
 As the research progressed, attention shifted to emerging technologies for contaminant degradation and reduction. Techniques such as plasma treatment, green extraction methods, and the application of natural decontaminants demonstrated promising results for reducing harmful residues on fresh produce and processed foods. For instance, studies showed that cold plasma treatments could effectively decrease pesticide levels and microbial contamination, offering a sustainable, chemical-free alternative for enhancing food safety.
 </div>
+
+<div style="text-align: justify;">
 In parallel, this line of research has explored the valorization of food by-products, aiming to reduce waste by transforming agricultural residues into valuable bioactive compounds and functional ingredients. This approach not only addresses sustainability by reducing waste but also creates new economic opportunities within the food industry. Research has focused on optimizing extraction methods for recovering nutrients from by-products, such as fish and plant-based residues, which can be repurposed in food or nutraceutical applications.
 </div>
+
+<div style="text-align: justify;">
 Currently, the focus is on integrating these safety and sustainability practices at a larger scale. This includes refining techniques to be energy-efficient and scalable, ensuring they are viable for industry-wide adoption. Future directions in this research line will likely explore more comprehensive systems for food safety and waste reduction, fostering a sustainable, circular economy within the food sector.
 </div>
 
