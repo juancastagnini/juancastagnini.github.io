@@ -18,7 +18,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <!-- Enlace al tema remoto -->
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
+    <!-- Enlace a tu archivo CSS personalizado -->
+    <link rel="stylesheet" href="styles.css">
     {% include head-custom.html %}
     <link rel="icon" href="JC-favicon.png" type="image/png">
     <!-- Google tag (gtag.js) -->
@@ -38,7 +41,15 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/" class="btn">Cv</a>
-      <a href="ResearchLines" class="btn">Research Lines</a>
+      <!-- <a href="ResearchLines" class="btn">Research Lines</a> -->
+      <!-- Menú Desplegable para Research Lines -->
+      <div class="dropdown">
+        <a href="ResearchLines" class="btn dropbtn">Research Lines</a>
+        <div class="dropdown-content">
+          <a href="line1">Research Line 1</a>
+          <a href="line2">Research Line 2</a>
+        </div>
+      </div>
       <a href="Publications" class="btn">Publications</a>
       <a href="Podcast" class="btn">Podcast</a>
     </header>
