@@ -51,10 +51,16 @@ Currently, the focus is on integrating these safety and sustainability practices
 ## Other Studies:
 <div style="text-align: justify;">
 The Other Studies research line encompasses a diverse range of investigations that complement the core areas of food science and technology. Initially, this line focused on innovative methodologies for assessing food quality and composition, utilizing advanced techniques such as hyperspectral imaging and non-linear thermodynamic analysis. These studies aimed to provide new tools for the accurate and efficient analysis of food properties, such as texture, color, and structural changes during processing, contributing to improved quality control in food production.
+</div>
 
+<div style="text-align: justify;">
 As the field advanced, this line expanded to include digital transformation within the agri-food sector. Research in this phase examined the role of emerging digital tools, including artificial intelligence (AI) and machine learning, to enhance decision-making processes and optimize the supply chain. Studies during this period also explored the impact of the COVID-19 pandemic on the adoption of digital technologies, highlighting a shift toward more resilient, tech-enabled food systems.
+</div>
 
+<div style="text-align: justify;">
 More recent work has delved into the impact of food processing on health and the physiological effects of specific food components. For example, studies have investigated the health benefits of specific berries and fruits, exploring their potential to modulate physiological responses like insulin sensitivity and antioxidant capacity. Other investigations have assessed how processing methods, such as drying or pressure treatments, influence the nutritional and functional properties of these foods.
+</div>
 
+<div style="text-align: justify;">
 Going forward, this line aims to build on these foundational studies by further exploring the intersections of technology, food quality, and health. Future research will likely focus on refining analytical methodologies and leveraging digital tools to create more transparent, efficient, and health-conscious food systems, contributing valuable insights to the broader field of food science.
 </div>
