@@ -1,7 +1,7 @@
 ---
 title: Publications
 layout: template
-filename: publications.md
+filename: Publications.md
 --- 
 
 # Scientific articles
