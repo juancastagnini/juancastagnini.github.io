@@ -4,7 +4,7 @@ layout: template
 filename: ResearchLines.md
 ---
 
-## [1. Innovative Processing Technologies:](InnovativeProcessing)
+## 1. Innovative Processing Technologies:
 <div style="text-align: justify;">
 The Innovative Processing Technologies research line explores advanced techniques to enhance the quality, efficiency, and sustainability of food processing. Initially, the focus was on leveraging Pulsed Electric Fields (PEF) for extracting bioactive compounds and enhancing the mechanical properties of food matrices. These early studies demonstrated the potential of PEF in breaking down cellular structures, allowing for efficient nutrient extraction, and opening pathways for valorizing by-products, particularly in fruits, vegetables, and seafood by-products.
 </div>
