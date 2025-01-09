@@ -5,7 +5,46 @@ filename: Publications.md
 --- 
 
 # Scientific articles
+## 2025
+- Liu, Y., Berrada, H., Castagnini, J. M., & Barba, F. J. (2025). Supercritical fluid extraction prior pulsed electric fields to improve high-added-value compounds recovery from salmon side streams: Evaluation of protein, bioactive peptides and minerals. Food Chemistry, 467, 142283. [https://doi.org/10.1016/j.foodchem.2024.142283](https://doi.org/10.1016/j.foodchem.2024.142283) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](articles/Liu et al 2025.pdf)
+
+- Sebastià, A., Fernández-Matarredona, C., Castagnini, J. M., Barba, F. J., Berrada, H., Moltó, J. C., Pardo, O., Esteve-Turrillas, F. A., & Ferrer, E. (2025). Acrylamide content in popcorn from Spanish market: Risk assessment. Food and Chemical Toxicology, 196, 115145. [https://doi.org/10.1016/j.fct.2024.115145](https://doi.org/10.1016/j.fct.2024.115145) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](articles/Sebastia et al 2025.pdf)
+
+- Calleja-Gómez, M., Martí-Quijal, F. J., Roig, P., Castagnini, J. M., & Barba, F. J. (2025). Pulsed Electric Field Extracts Obtained from Edible Mushrooms: A Detailed ICP-MS Analysis of Their Mineral and Heavy Metal Contents and Their Cytotoxic Effect on CACO-2 Cells. Food and Bioprocess Technology. [https://doi.org/10.1007/s11947-024-03730-4](https://doi.org/10.1007/s11947-024-03730-4) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](articles/Calleja-Gomez et al 2025.pdf)
+
 ## 2024
+- Benitez, L. O., Petelin, R., Malvasio, M., Monetta, D., Rasia, M., Musumeci, M. A., & Castagnini, J. M. (2024). Rice bran oil-in-water optimized emulsions for the development of plant-based foods and beverages. Exploration of Foods and Foodomics, 2(1), 67–82. [https://doi.org/10.37349/eff.2024.00026](https://doi.org/10.37349/eff.2024.00026)
+
+- Bernabeu, M., Salgado-Ramos, M., Barba, F. J., Collado, M. C., & Castagnini, J. M. (2024). Impact of sweet potato peels extracts obtained by pulsed electric fields on the growth of probiotic strains from Lactobacillus genus. Innovative Food Science & Emerging Technologies, 92, 103590. [https://doi.org/10.1016/j.ifset.2024.103590](https://doi.org/10.1016/j.ifset.2024.103590)
+
+- De Chiara, M. L. V., Castagnini, J. M., & Capozzi, V. (2024). Cutting-edge physical techniques in postharvest for fruits and vegetables: Unveiling their power, inclusion in ‘hurdle’ approach, and latest applications. Trends in Food Science & Technology, 151, 104619. [https://doi.org/10.1016/j.tifs.2024.104619](https://doi.org/10.1016/j.tifs.2024.104619)
+
+- Linsaenkart, P., Ruksiriwanich, W., Muangsanguan, A., Sommano, S. R., Sringarm, K., Arjin, C., Rachtanapun, P., Jantanasakulwong, K., Castagnini, J. M., Chutoprapat, R., & Boonpisuttinant, K. (2024). Antioxidant, Anti-Inflammation, and Melanogenesis Inhibition of Sang 5 CMU Rice (Oryza sativa) Byproduct for Cosmetic Applications. Plants, 13(13), 1795. [https://doi.org/10.3390/plants13131795](https://doi.org/10.3390/plants13131795)
+
+- Linsaenkart, P., Ruksiriwanich, W., Sringarm, K., Arjin, C., Rachtanapun, P., Chittasupho, C., Castagnini, J. M., Chutoprapat, R., Mueller, A., & Boonpisuttinant, K. (2024). Anti-Melanogenic Potential of Malabar Spinach (Basella alba) in Human Melanoma Cells with Oxidative Stress Suppression and Anti-Inflammatory Activities. Foods, 13(18), 2943. [https://doi.org/10.3390/foods13182943](https://doi.org/10.3390/foods13182943)
+
+- Linsaenkart, P., Yooin, W., Jiranusornkul, S., Sringarm, K., Arjin, C., Rachtanapun, P., Jantanasakulwong, K., Castagnini, J. M., & Ruksiriwanich, W. (2024). Valorization of Hom Thong Banana Peel (Musa sp., AAA Group) as an Anti-Melanogenic Agent Through Inhibition of Pigmentary Genes and Molecular Docking Study. International Journal of Molecular Sciences, 25(23), 13202. [https://doi.org/10.3390/ijms252313202](https://doi.org/10.3390/ijms252313202)
+
+- Liu, Y., Berrada, H., Pallarés, N., Marti-Quijal, F. J., Castagnini, J. M., & Barba, F. J. (2024). Comprehensive analysis of oils and remaining solid matrices from supercritical fluid extraction of salmon side streams: Fatty acids, bioactive peptides, minerals, and heavy metals. LWT, 214, 117116. [https://doi.org/10.1016/j.lwt.2024.117116](https://doi.org/10.1016/j.lwt.2024.117116)
+
+- Liu, Y., Berrada, H., Wang, M., Zhou, J., Kousoulaki, K., Barba, F. J., & Castagnini, J. M. (2024). Is Pulsed Electric Field (PEF) a Useful Tool for the Valorization of Solid and Liquid Sea Bass Side Streams?: Evaluation of Nutrients and Contaminants. Food and Bioprocess Technology. [https://doi.org/10.1007/s11947-024-03553-3](https://doi.org/10.1007/s11947-024-03553-3)
+
+- Liu, Y., Dar, B. N., Makroo, H. A., Aslam, R., Martí-Quijal, F. J., Castagnini, J. M., Amigo, J. M., & Barba, F. J. (2024). Optimizing Recovery of High-Added-Value Compounds from Complex Food Matrices Using Multivariate Methods. Antioxidants, 13(12), 1510. [https://doi.org/10.3390/antiox13121510](https://doi.org/10.3390/antiox13121510)
+
+- Martí-Quijal, F. J., Castagnini, J. M., Barba, F. J., & Ruiz, M. J. (2024). Effect of Spirulina and Fish Processing By-Products Extracts on Citrinin-Induced Cytotoxicity in SH-SY5Y Cells. Foods, 13(12), 1932. [https://doi.org/10.3390/foods13121932](https://doi.org/10.3390/foods13121932)
+
+- Muangsanguan, A., Ruksiriwanich, W., Arjin, C., Jamjod, S., Prom-u-Thai, C., Jantrawut, P., Rachtanapun, P., Hnorkaew, P., Satsook, A., Sainakham, M., Castagnini, J. M., & Sringarm, K. (2024). Comparison of In Vitro Hair Growth Promotion and Anti-Hair Loss Potential of Thai Rice By-Product from Oryza sativa L. cv. Buebang 3 CMU and Sanpatong. Plants, 13(21), 3079. [https://doi.org/10.3390/plants13213079](https://doi.org/10.3390/plants13213079)
+
+- Muangsanguan, A., Ruksiriwanich, W., Linsaenkart, P., Jantrawut, P., Rachtanapun, P., Jantanasakulwong, K., Sommano, S. R., Sringarm, K., Arjin, C., Sainakham, M., & Castagnini, J. M. (2024). Synergistic Phytochemical and Pharmacological Actions of Hair RiseTM Microemulsion: A Novel Herbal Formulation for Androgenetic Alopecia and Hair Growth Stimulation. Plants, 13(19), 2802. [https://doi.org/10.3390/plants13192802](https://doi.org/10.3390/plants13192802)
+
+- Ramos, L. C., Rodríguez-García, A., Castagnini, J. M., Salgado-Ramos, M., Martínez-Culebras, P. V., Barba, F. J., & Pallarés, N. (2024). HPLC-MS/MS and ICP-MS for Evaluation of Mycotoxins and Heavy Metals in Edible Insects and Their Defatted Cakes Resulting from Supercritical Fluid Extraction. Foods, 13(20), 3233. [https://doi.org/10.3390/foods13203233](https://doi.org/10.3390/foods13203233)
+
+- Rodriguez Palleres, X., Rojas González, F., Toledo San Marín, Á., & Castagnini, J. M. (2024). Transformación de residuos de frutas y verduras en alimentos saludables y sostenibles y su impacto en la salud de las personas mayores. Nutrición Clínica y Dietética Hospitalaria, 44(4). [https://doi.org/10.12873/444rodriguez](https://doi.org/10.12873/444rodriguez)
+
+- Rodríguez Palleres, X., Villota Arcos, C., Toledo San Martín, Á., Rojas González, F., & Castagnini, J. M. (2024). Fruit and vegetables loss and waste in preschools belonging to the National Board of Kindergartens of Chile. Anales Del Sistema Sanitario de Navarra, 47(3), e1089. [https://doi.org/10.23938/ASSN.1089](https://doi.org/10.23938/ASSN.1089)
+
+- Yang, S., Cao, Y., Li, C., Castagnini, J. M., Barba, F. J., Shan, C., & Zhou, J. (2024). Enhancing grain drying methods with hyperspectral imaging technology: A visualanalysis. Current Research in Food Science, 8, 100695. [https://doi.org/10.1016/j.crfs.2024.100695](https://doi.org/10.1016/j.crfs.2024.100695)
+
 - Salgado-Ramos, M., Castagnini, J. M., Dar, B. N., Gharibzahedi, S. M. T., Phimolsiripol, Y., Rimac-Brnčić, S., Martínez-Culebras, P. V., Altintas, Z., & Barba, F. J. (2024). Edible Insects as Sustainable and Nutrient-Rich Food Sources: Exploring Innovations and Advancements for Future Food Practices–A Comprehensive Review. Food Reviews International. [https://doi.org/10.1080/87559129.2024.2341725](https://doi.org/10.1080/87559129.2024.2341725) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](articles/Salgado-Ramos et al 2024.pdf)
 
 - Calleja-Gómez, M., Pallarés, N., Salgado-Ramos, M., Barba, F. J., Berrada, H., & Castagnini, J. M. (2024). Sustainable processing of food side streams and underutilized leftovers into high-added-value chemicals assisted by pulsed electric fields- and high-pressure processing-based technologies. TrAC Trends in Analytical Chemistry, 171, 117506. [https://doi.org/10.1016/j.trac.2023.117506](https://doi.org/10.1016/j.trac.2023.117506) - [<span style="color: green;">**GREEN OPEN ACCESS - Download**</span>](articles/Calleja-Gomez et al 2024.pdf)
