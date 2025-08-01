@@ -13,6 +13,8 @@ _Food engineer based in Valencia_ <br>
 Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
 <br><br>
 
+## Previous Positions
+
 **Senior Posdoctoral Researcher** @ [Universitat de València, Spain](https://www.uv.es/) _(23/01/2025 - 31/05/2025)_ <br>
 Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
 *European Project:* BLUE WAY to a Sustainable Europe - BLUEWAYSE
@@ -20,8 +22,6 @@ Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Med
   - Nutritional and bioactive analysis and characterization using advanced analytical tools.
   - Multifactorial design and statistical analysis.
 <br><br>
-
-## Previous Positions
 
 **Distinguished researcher “Maria Zambrano”** @ [Universitat de València, Spain](https://www.uv.es/) _(14/01/2022 - 31/12/2024)_ <br>
 Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
