@@ -2,16 +2,9 @@
 <html lang="{{ site.lang | default: "en-US" }}">
   <head>
     <meta charset="UTF-8">
-    <title>Juan Manuel Castagnini</title>
-    <meta name="description" content="Explore food science and technology insights on Juan Manuel Castagnini's website.">
     <meta name="keywords" content="food science, food technology, research, articles, blog">
     <meta name="author" content="Juan Manuel Castagnini">
     <!--Open Graph (OG) Tags for Social Sharing-->
-    <meta property="og:title" content="Juan Manuel Castagnini">
-    <meta property="og:description" content="Discover research and insights in food science and technology.">
-    <meta property="og:image" content="https://juancastagnini.github.io/JC-favicon.png">
-    <meta property="og:url" content="https://juancastagnini.github.io">
-    <meta property="og:type" content="website">
 {% seo %}
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
@@ -23,7 +16,7 @@
     <!-- Enlace a tu archivo CSS personalizado -->
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     {% include head-custom.html %}
-    <link rel="icon" href="JC-favicon.png" type="image/png">
+    <link rel="icon" href="{{ '/JC-favicon.png' | relative_url }}" type="image/png">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WL6JEQPSQE"></script>
     <script>
@@ -41,9 +34,9 @@
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
       <a href="/" class="btn">Cv</a>
-      <a href="ResearchLines" class="btn">Research Lines</a>
-      <a href="Publications" class="btn">Publications</a>
-      <a href="Podcast" class="btn">Podcast</a>
+      <a href="{{ '/ResearchLines' | relative_url }}" class="btn">Research Lines</a>
+      <a href="{{ '/Publications' | relative_url }}" class="btn">Publications</a>
+      <a href="{{ '/Podcast' | relative_url }}" class="btn">Podcast</a>
     </header>
     
     <main id="content" class="main-content" role="main">

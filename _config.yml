@@ -1,15 +1,24 @@
 title: Juan Castagnini
 description: Food Science and Technology
+url: "https://juancastagnini.eu"
+lang: en
+
+author: Juan Manuel Castagnini
+
+logo: /JC-favicon.png
+
 remote_theme: pages-themes/cayman@v0.2.0
-url: "https://juancastagnini.github.io"
 plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
+
 exclude:
   - "articles/*.pdf"
-social:
-  twitter: https://x.com/jmcastagnini
-  linkedin: https://www.linkedin.com/in/juanmanuelcastagnini/
 
-lang: en
+twitter_username: jmcastagnini
+
+social:
+  links:
+    - https://x.com/jmcastagnini
+    - https://www.linkedin.com/in/juanmanuelcastagnini/
