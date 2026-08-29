@@ -102,6 +102,8 @@ class PublicationsSiteTests(unittest.TestCase):
         closed_dois = {
             "https://doi.org/10.1016/j.foodchem.2025.145854",
             "https://doi.org/10.1007/s11130-025-01396-7",
+            "https://doi.org/10.1007/s11694-025-04020-z",
+            "https://doi.org/10.1016/j.foodchem.2026.149299",
         }
         by_doi = {publication["doi"]: publication for publication in load_publications()}
 
