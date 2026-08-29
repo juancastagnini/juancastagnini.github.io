@@ -98,6 +98,22 @@ class PublicationsSiteTests(unittest.TestCase):
             self.assertEqual(publication["fulltext_url"], doi)
             self.assertEqual(publication["rights_evidence_url"], doi)
 
+    def test_known_closed_articles_do_not_advertise_full_text(self) -> None:
+        closed_dois = {
+            "https://doi.org/10.1016/j.foodchem.2025.145854",
+            "https://doi.org/10.1007/s11130-025-01396-7",
+        }
+        by_doi = {publication["doi"]: publication for publication in load_publications()}
+
+        for doi in closed_dois:
+            publication = by_doi[doi]
+            self.assertEqual(publication["access_route"], "publisher-only")
+            self.assertEqual(
+                publication["access_label"],
+                "Publisher access — subscription may be required",
+            )
+            self.assertFalse(publication.get("fulltext_url"))
+
     def test_publications_page_uses_static_accessible_components(self) -> None:
         self.assertTrue(INCLUDE_FILE.exists())
         self.assertTrue(SCRIPT_FILE.exists())
