@@ -23,7 +23,7 @@ My research combines **pulsed electric fields (PEF)**, **supercritical-fluid ext
 - Food characterisation, digestion and bioactivity assessment
 - Circular bioeconomy and sustainable food systems
 
-[Explore selected milestones in my research trajectory]({{ '/ResearchTrajectory' | relative_url }}), including the five contributions selected for my first six-year research evaluation period in Spain.
+[Explore my research lines and selected research-trajectory milestones]({{ '/Research' | relative_url }}), including the five contributions selected for my first six-year research evaluation period in Spain.
 
 ## Current Roles and Academic Service
 
