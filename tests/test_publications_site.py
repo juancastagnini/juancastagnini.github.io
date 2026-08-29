@@ -72,6 +72,32 @@ class PublicationsSiteTests(unittest.TestCase):
             self.assertEqual(publication["fulltext_url"], doi)
             self.assertEqual(publication["rights_evidence_url"], doi)
 
+    def test_verified_2025_publisher_routes_have_licences(self) -> None:
+        expected_licenses = {
+            "https://doi.org/10.3390/molecules30173589": "CC BY 4.0",
+            "https://doi.org/10.3390/foods14223908": "CC BY 4.0",
+            "https://doi.org/10.3390/foods14152583": "CC BY 4.0",
+            "https://doi.org/10.3390/biology14070889": "CC BY 4.0",
+            "https://doi.org/10.12873/452rodriguez": "CC BY-NC-ND 4.0",
+            "https://doi.org/10.1080/19476337.2025.2549373": "CC BY 4.0",
+            "https://doi.org/10.1016/j.jafr.2025.101666": "CC BY-NC-ND 4.0",
+            "https://doi.org/10.1016/j.foodchem.2025.146367": "CC BY 4.0",
+            "https://doi.org/10.1016/j.foodchem.2025.143085": "CC BY 4.0",
+            "https://doi.org/10.1016/j.cofs.2025.101365": "CC BY-NC 4.0",
+            "https://doi.org/10.1016/j.afres.2025.100963": "CC BY 4.0",
+            "https://doi.org/10.1007/s11947-025-03897-4": "CC BY 4.0",
+            "https://doi.org/10.1007/s11947-025-03751-7": "CC BY 4.0",
+            "https://doi.org/10.1007/s11947-024-03553-3": "CC BY 4.0",
+        }
+        by_doi = {publication["doi"]: publication for publication in load_publications()}
+
+        for doi, license_name in expected_licenses.items():
+            publication = by_doi[doi]
+            self.assertEqual(publication["access_route"], "publisher-oa")
+            self.assertEqual(publication["license"], license_name)
+            self.assertEqual(publication["fulltext_url"], doi)
+            self.assertEqual(publication["rights_evidence_url"], doi)
+
     def test_publications_page_uses_static_accessible_components(self) -> None:
         self.assertTrue(INCLUDE_FILE.exists())
         self.assertTrue(SCRIPT_FILE.exists())
