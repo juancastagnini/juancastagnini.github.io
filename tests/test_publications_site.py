@@ -161,6 +161,22 @@ class PublicationsSiteTests(unittest.TestCase):
         self.assertEqual(by_doi["https://doi.org/10.1111/ijfs.16457"]["access_route"], "free-to-read-rights-unverified")
         self.assertEqual(by_doi["https://doi.org/10.1016/j.foodhyd.2023.109057"]["access_route"], "publisher-only")
 
+    def test_historical_rights_audit_marks_all_remaining_older_records_oa(self) -> None:
+        audited_oa = {
+            "https://doi.org/10.3390/separations9100302", "https://doi.org/10.3390/separations9090257",
+            "https://doi.org/10.3390/molecules27165222", "https://doi.org/10.3390/foods11182859",
+            "https://doi.org/10.3390/foods11111552", "https://doi.org/10.3390/foods11050731",
+            "https://doi.org/10.3389/fnut.2022.870923", "https://doi.org/10.3390/su13169204",
+            "https://doi.org/10.3390/app11188510", "https://doi.org/10.3390/antiox8090360",
+            "https://doi.org/10.1590/0103-8478cr20180839", "https://doi.org/10.33255/2957/320",
+            "https://doi.org/10.1590/0103-8478cr20160501", "https://doi.org/10.17533/udea.vitae.v23n3a03",
+        }
+        by_doi = {publication["doi"]: publication for publication in load_publications()}
+        for doi in audited_oa:
+            self.assertEqual(by_doi[doi]["access_route"], "publisher-oa")
+            self.assertTrue(by_doi[doi].get("license"))
+            self.assertEqual(by_doi[doi]["fulltext_url"], doi)
+
     def test_publications_page_uses_static_accessible_components(self) -> None:
         self.assertTrue(INCLUDE_FILE.exists())
         self.assertTrue(SCRIPT_FILE.exists())
