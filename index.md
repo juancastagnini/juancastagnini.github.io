@@ -2,56 +2,63 @@
 title: Juan Manuel Castagnini
 layout: template
 filename: index.md
---- 
-_Food engineer based in Valencia_ <br>
+---
 
-[Univ. Valencia](https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=castagni&idA=) / [LinkedIn](https://www.linkedin.com/in/juanmanuelcastagnini/) / [SCOPUS](https://www.scopus.com/authid/detail.uri?authorId=56401130100) / [Google Scholar](https://scholar.google.com/citations?hl=es&user=64MjyNgAAAAJ) / [ORCiD](https://orcid.org/0000-0002-3659-3640) / [ResearchGate](https://www.researchgate.net/profile/Juan-Castagnini) / [Instagram](https://www.instagram.com/juan.castagnini_food_science)
+_Food Engineer · Researcher and Assistant Professor in Food Science and Technology · Valencia, Spain_
 
-## Current Position
+[Universitat de València](https://www.uv.es/uvweb/universidad/es/ficha-persona-1285950309813.html?p2=castagni&idA=) / [LinkedIn](https://www.linkedin.com/in/juanmanuelcastagnini/) / [Scopus](https://www.scopus.com/authid/detail.uri?authorId=56401130100) / [Google Scholar](https://scholar.google.com/citations?hl=es&user=64MjyNgAAAAJ) / [ORCiD](https://orcid.org/0000-0002-3659-3640) / [ResearchGate](https://www.researchgate.net/profile/Juan-Castagnini) / [Instagram](https://www.instagram.com/juan.castagnini_food_science)
 
-**Assistant Professor of Food Science and Technology** @ [Universitat de València, Spain](https://www.uv.es/) _(01/06/2025 - ongoing)_ <br>
-Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
-<br><br>
+## Research Profile
 
-## Previous Positions
+I am a Food Engineer, researcher and Assistant Professor in Food Science and Technology with international experience in Spain, Italy and Argentina. My work focuses on sustainable food processing, green extraction and the development of functional ingredients from microalgae, plant materials and agro-industrial side streams.
 
-**Senior Postdoctoral Researcher** @ [Universitat de València, Spain](https://www.uv.es/) _(23/01/2025 - 31/05/2025)_ <br>
-Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
-*European Project:* BLUE WAY to a Sustainable Europe - BLUEWAYSE
-  - Optimization of extraction conditions for innovative technologies for the recovery of nutrients and bioactive compounds from aquaculture and fishery by-products
-  - Nutritional and bioactive analysis and characterization using advanced analytical tools.
-  - Multifactorial design and statistical analysis.
-<br><br>
+My research combines **pulsed electric fields (PEF)**, **supercritical-fluid extraction (SC-CO₂)** and **pressurised liquid extraction (PLE)** with food characterisation and *in vitro* digestion. I am interested in translating food-science research into scalable solutions that improve the recovery and functionality of bioactive compounds, create value from underutilised raw materials and support the circular bioeconomy.
 
-**Distinguished researcher “Maria Zambrano”** @ [Universitat de València, Spain](https://www.uv.es/) _(14/01/2022 - 31/12/2024)_ <br>
-Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
-*Keywords:* Sustainable functional food development; Microencapsulation; Pulsed electric fields; Innovative Non-thermal technologies
-  - Extraction of bioactive compounds from food matrices using innovative and sustainable non-thermal technologies (EXTRABIO)
-  - **_Technologies used:_** Pulsed Electric Fields (PEF), Supercritical Fluid Extraction (SC-CO_2), Pressurized Liquid Extraction (PLE).
-<br><br>
+### Research interests
 
-**Hired Researcher** @ [Università di Bologna, Italy](https://www.unibo.it/en/homepage) _(01/11/2020 - 31/12/2021)_ <br>
-Dipartimento di Scienze e Tecnologie Agro-Alimentari (DISTAL) <br>
-  - **_Technologies used:_** Pulsed Electric Fields (PEF), Cold Plasma, Spray-Drying, Differential Scanning Calorimetry (DSC), Texture, Color.
-<br><br>
+- Sustainable and non-thermal food processing
+- Green extraction and recovery of bioactive compounds
+- Functional ingredients and functional-food development
+- Valorisation of agro-industrial side streams
+- Food characterisation, digestion and bioactivity assessment
+- Circular bioeconomy and sustainable food systems
 
-**Associate Professor** @ [Universidad Nacional de Entre Rios, Argentina](https://uner.edu.ar/) _(01/08/2014 - 31/10/2020)_ <br>
-Facultad de Ciencias de la Alimentación. <br>
-  - **_Technologies used:_** Differential Scanning Calorimetry (DSC), Rheology, Spray-Drying.
-    <br><br>
+## Current Roles and Academic Service
+
+**Assistant Professor of Food Science and Technology** · [Universitat de València](https://www.uv.es/) · June 2025–present<br>
+Teaching and research at the Faculty of Pharmacy and Food Science, within the Department of Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine.
+
+**Member** · European Food Safety Authority (EFSA), Stakeholder Community on Applications for Food and Feed Products · May 2026–present<br>
+Representative of the Universitat de València in EFSA’s stakeholder community for regulated food and feed products requiring pre-market authorisation in the European Union.
+
+**Section Editor** · *Current Nutrition Reports* · February 2024–present<br>
+Topical Collection: Food Science and Technology.
+
+**Section Editor** · *Current Food Science and Technology Reports* · April 2023–present<br>
+Topical Collection: Food Processing and Preservation.
+
+## Selected Academic Experience
+
+**Distinguished Researcher — María Zambrano Excellence Programme** · Universitat de València · January 2022–May 2025<br>
+Developed the EXTRABIO research line on innovative and sustainable non-thermal technologies for recovering bioactive compounds from food matrices and agro-industrial side streams. Participated in European and international initiatives including Mildsusfruit, Wheatbiome and BLUEWAYSE.
+
+**Postdoctoral Researcher** · [Università di Bologna](https://www.unibo.it/en/homepage) · November 2020–December 2021<br>
+Research on sustainable food processing, functional-food applications and the valorisation of food side streams; contributor to the Horizon 2020 FoodLAND and MildSusFruit projects.
+
+**Assistant Researcher** · CONICET · March 2020–September 2021<br>
+Research on food processing, functional ingredients, bioactive compounds, microencapsulation and food systems.
+
+**Associate Professor** · [Universidad Nacional de Entre Ríos](https://uner.edu.ar/) · November 2017–September 2021<br>
+Teaching, research, student supervision and academic service at the Faculty of Food Sciences.
 
 ## Education
 
-**PhD in Food Science, Technology and Management** <br>
-[Universitat Politècnica de València](https://www.upv.es/) - Valencia, Spain _(07/07/2014)_ <br>
+**Master’s Degree in Sustainable Food Production** · University of Valencia · 2022–2023
 
-**Food Engineer** <br>
-[Universidad Nacional de Entre Ríos](https://uner.edu.ar/) - Concordia, Argentina _(11/06/2010)_
+**PhD in Food Science, Technology and Management** · [Universitat Politècnica de València](https://www.upv.es/) · 2011–2014
+
+**Food Engineer** · [Universidad Nacional de Entre Ríos](https://uner.edu.ar/) · 2004–2010
 
 ## Languages
-**Spanish**: Native <br>
-**English**: C1 <br>
-**Valencian/Catalan**: C1 <br>
-**Italian**: B2 <br>
-**Portuguese**: B1 <br>
-<br><br>
+
+Spanish (native) · Catalan (full professional) · English (full professional) · Italian (professional working) · Portuguese (limited working)
