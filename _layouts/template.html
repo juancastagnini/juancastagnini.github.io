@@ -16,6 +16,9 @@
     <!-- Enlace a tu archivo CSS personalizado -->
     <link rel="stylesheet" href="{{ '/assets/css/styles.css' | relative_url }}">
     {% include head-custom.html %}
+    {% if page.publications_page %}
+    <script src="{{ '/assets/js/publications-filter.js' | relative_url }}" defer></script>
+    {% endif %}
     <link rel="icon" href="{{ '/JC-favicon.png' | relative_url }}" type="image/png">
     <!-- Google tag (gtag.js) -->
     <script async src="https://www.googletagmanager.com/gtag/js?id=G-WL6JEQPSQE"></script>

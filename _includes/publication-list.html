@@ -1,0 +1,45 @@
+<section class="publications" aria-labelledby="publications-heading">
+  <h2 id="publications-heading">Publications</h2>
+  <p class="publications__intro">Each record identifies its current access route and the version available. Publisher-open articles link to the version of record; author or repository copies are identified separately. Records marked “under review” remain bibliographically complete while their lawful sharing route is verified.</p>
+
+  <fieldset class="publications__filters">
+    <legend>Filter by access</legend>
+    <div class="publications__filter-buttons" role="group" aria-label="Publication access filters">
+      <button type="button" class="publications__filter is-selected" data-access-filter="all" aria-pressed="true">All publications</button>
+      <button type="button" class="publications__filter" data-access-filter="publisher-oa" aria-pressed="false">Publisher open access</button>
+      <button type="button" class="publications__filter" data-access-filter="repository-full-text" aria-pressed="false">Free full text</button>
+      <button type="button" class="publications__filter" data-access-filter="rights-under-review" aria-pressed="false">Rights under review</button>
+    </div>
+  </fieldset>
+
+  <aside class="publications__legend" aria-label="Access legend">
+    <p><strong>Publisher open access:</strong> the publisher’s version of record is openly available under the stated licence.</p>
+    <p><strong>Free full text:</strong> an author or repository copy is linked; its version is identified by the destination.</p>
+    <p><strong>Rights under review:</strong> bibliographic record available; no full text is hosted here until sharing rights are verified.</p>
+  </aside>
+
+  <p id="publication-result-count" class="publications__count" role="status" aria-live="polite"></p>
+
+  {% assign publications_by_year = site.data.publications | group_by: "year" %}
+  {% for year_group in publications_by_year %}
+    <section class="publications__year" data-year-group="{{ year_group.name }}" aria-labelledby="publications-{{ year_group.name }}">
+      <h3 id="publications-{{ year_group.name }}">{{ year_group.name }}</h3>
+      {% for publication in year_group.items %}
+        <article class="publication" data-access="{{ publication.access_route }}">
+          <p class="publication__citation">{{ publication.citation | escape }}</p>
+          <div class="publication__links">
+            <a href="{{ publication.doi }}" target="_blank" rel="noopener noreferrer">View DOI</a>
+            <span class="publication__badge publication__badge--{{ publication.access_route }}">{{ publication.access_label | escape }}</span>
+            {% if publication.fulltext_url %}
+              {% if publication.fulltext_url contains '://' %}
+                <a href="{{ publication.fulltext_url }}" target="_blank" rel="noopener noreferrer">Read full text</a>
+              {% else %}
+                <a href="{{ publication.fulltext_url | relative_url }}">Read full text</a>
+              {% endif %}
+            {% endif %}
+          </div>
+        </article>
+      {% endfor %}
+    </section>
+  {% endfor %}
+</section>

@@ -52,3 +52,94 @@
 .open-access--gold {
     color: #8a6200;
 }
+
+/* Publications: accessible, responsive static controls. */
+.publications__intro,
+.publications__legend {
+    margin-bottom: 1.25rem;
+}
+
+.publications__filters {
+    border: 1px solid #d0d7de;
+    border-radius: 0.5rem;
+    margin: 1.5rem 0;
+    padding: 0.9rem 1rem 1rem;
+}
+
+.publications__filter-buttons,
+.publication__links {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.6rem;
+    align-items: center;
+}
+
+.publications__filter {
+    background: #ffffff;
+    border: 1px solid #157878;
+    border-radius: 0.3rem;
+    color: #0b5050;
+    cursor: pointer;
+    font: inherit;
+    padding: 0.5rem 0.75rem;
+}
+
+.publications__filter:hover,
+.publications__filter.is-selected {
+    background: #157878;
+    color: #ffffff;
+}
+
+.publications__filter:focus-visible,
+.publication__links a:focus-visible {
+    outline: 3px solid #c68a00;
+    outline-offset: 2px;
+}
+
+.publications__count {
+    font-weight: 700;
+}
+
+.publications__year {
+    margin-top: 2rem;
+}
+
+.publication {
+    border-left: 4px solid #d0d7de;
+    margin: 1rem 0;
+    padding: 0.25rem 0 0.25rem 1rem;
+}
+
+.publication__citation {
+    margin: 0 0 0.45rem;
+}
+
+.publication__badge {
+    border-radius: 999px;
+    font-size: 0.86rem;
+    font-weight: 700;
+    padding: 0.2rem 0.55rem;
+}
+
+.publication__badge--publisher-oa {
+    background: #d9f2e2;
+    color: #075b27;
+}
+
+.publication__badge--repository-full-text {
+    background: #e0edf7;
+    color: #174b78;
+}
+
+.publication__badge--free-to-read-rights-unverified,
+.publication__badge--rights-under-review {
+    background: #f8e8c7;
+    color: #6b4200;
+}
+
+@media (max-width: 600px) {
+    .publications__filter,
+    .publication__links a {
+        width: 100%;
+    }
+}
