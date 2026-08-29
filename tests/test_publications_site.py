@@ -56,6 +56,22 @@ class PublicationsSiteTests(unittest.TestCase):
                 self.assertTrue(publication.get("license"))
                 self.assertTrue(publication.get("rights_evidence_url"))
 
+    def test_verified_2026_publisher_routes_have_licences(self) -> None:
+        expected_licenses = {
+            "https://doi.org/10.1016/j.ijfoodmicro.2025.111436": "CC BY 4.0",
+            "https://doi.org/10.1016/j.ifset.2026.104445": "CC BY-NC-ND 4.0",
+            "https://doi.org/10.1016/j.fbio.2026.108313": "CC BY-NC 4.0",
+            "https://doi.org/10.1007/s00216-025-06073-x": "CC BY 4.0",
+        }
+        by_doi = {publication["doi"]: publication for publication in load_publications()}
+
+        for doi, license_name in expected_licenses.items():
+            publication = by_doi[doi]
+            self.assertEqual(publication["access_route"], "publisher-oa")
+            self.assertEqual(publication["license"], license_name)
+            self.assertEqual(publication["fulltext_url"], doi)
+            self.assertEqual(publication["rights_evidence_url"], doi)
+
     def test_publications_page_uses_static_accessible_components(self) -> None:
         self.assertTrue(INCLUDE_FILE.exists())
         self.assertTrue(SCRIPT_FILE.exists())
