@@ -35,3 +35,20 @@
 .dropdown-content a:hover {
     background-color: #ddd;
 }
+
+/* Reusable editorial styles for research and publications pages. */
+.prose-justified {
+    text-align: justify;
+}
+
+.open-access {
+    font-weight: 700;
+}
+
+.open-access--green {
+    color: #087f23;
+}
+
+.open-access--gold {
+    color: #8a6200;
+}

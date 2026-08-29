@@ -15,7 +15,7 @@ Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Med
 
 ## Previous Positions
 
-**Senior Posdoctoral Researcher** @ [Universitat de València, Spain](https://www.uv.es/) _(23/01/2025 - 31/05/2025)_ <br>
+**Senior Postdoctoral Researcher** @ [Universitat de València, Spain](https://www.uv.es/) _(23/01/2025 - 31/05/2025)_ <br>
 Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
 *European Project:* BLUE WAY to a Sustainable Europe - BLUEWAYSE
   - Optimization of extraction conditions for innovative technologies for the recovery of nutrients and bioactive compounds from aquaculture and fishery by-products
@@ -27,7 +27,7 @@ Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Med
 Preventive Medicine and Public Health, Food Science, Toxicology and Forensic Medicine Department. <br>
 *Keywords:* Sustainable functional food development; Microencapsulation; Pulsed electric fields; Innovative Non-thermal technologies
   - Extraction of bioactive compounds from food matrices using innovative and sustainable non-thermal technologies (EXTRABIO)
-  - **_Technologies used:_** Pulsed Electric Fields (PEF), Supercritical Fluid Extractionn (SC-CO_2), Pressurized Liquid Extraction (PLE).
+  - **_Technologies used:_** Pulsed Electric Fields (PEF), Supercritical Fluid Extraction (SC-CO_2), Pressurized Liquid Extraction (PLE).
 <br><br>
 
 **Hired Researcher** @ [Università di Bologna, Italy](https://www.unibo.it/en/homepage) _(01/11/2020 - 31/12/2021)_ <br>
