@@ -23,6 +23,8 @@ My research combines **pulsed electric fields (PEF)**, **supercritical-fluid ext
 - Food characterisation, digestion and bioactivity assessment
 - Circular bioeconomy and sustainable food systems
 
+[Explore selected milestones in my research trajectory]({{ '/ResearchTrajectory' | relative_url }}), including the five contributions selected for my first six-year research evaluation period in Spain.
+
 ## Current Roles and Academic Service
 
 **Assistant Professor of Food Science and Technology** · [Universitat de València](https://www.uv.es/) · June 2025–present<br>
