@@ -36,10 +36,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="/" class="btn">Cv</a>
-      <a href="{{ '/ResearchLines' | relative_url }}" class="btn">Research Lines</a>
-      <a href="{{ '/Publications' | relative_url }}" class="btn">Publications</a>
-      <a href="{{ '/Podcast' | relative_url }}" class="btn">Podcast</a>
+      <nav class="site-nav" aria-label="Primary">
+        <a href="{{ '/' | relative_url }}" class="btn">CV</a>
+        <a href="{{ '/ResearchLines' | relative_url }}" class="btn">Research Lines</a>
+        <a href="{{ '/Publications' | relative_url }}" class="btn">Publications</a>
+        <a href="{{ '/Podcast' | relative_url }}" class="btn">Podcast</a>
+      </nav>
     </header>
     
     <main id="content" class="main-content" role="main">
